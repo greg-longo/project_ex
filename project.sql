@@ -1,3 +1,3 @@
 CREATE TABLE ....
 
-CREATE TABLE longo
+CREATE TABLE amber
